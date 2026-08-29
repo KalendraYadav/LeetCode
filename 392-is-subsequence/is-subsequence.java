@@ -6,7 +6,7 @@ class Solution {
 
         int n=arr1.length;
         int m=arr2.length;
-        int small=Math.min(n,m);
+        // int small=Math.min(n,m);
 
         int p1=0;
         int p2=0;
